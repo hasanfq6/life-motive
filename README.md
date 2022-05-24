@@ -33,7 +33,7 @@
 ```
 ### screenshot 
 
- ![screenshot](imgs/Screenshot_20220524-220327_Termux.png)
+ ![screenshot](img/Screenshot_20220524-220327_Termux.png)
 
 ### Find Me on :
 
