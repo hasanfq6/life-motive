@@ -26,26 +26,14 @@ Z="\033[4;31m"
 K="\033[0;100m"
 D="\033[4;31m"
 
-if [[ -e "/data/data/com.termux/files/home" ]]; then 
- echo -e $g"[+] lolcat already installed"$w
-else
 echo -e $K"installing lolcat"$w
 gem install lolcat &> /dev/null;
-fi
 
-if [[ -e "/data/data/com.termux/files/home" ]]; then
- echo -e $g"[+] lolcat already installed"$w
-else
 echo -e $K"installing fortune"$w
 pkg install fotune &> /dev/null;
-fi
 
-if [[ -e "/data/data/com.termux/files/home" ]]; then
- echo -e $g"[+] lolcat already installed"$w
-else
 echo -e $K"installing cowsay"$w
 pkg install cowsay &> /dev/null;
-fi
 
 ## questions
 pause_1() {
