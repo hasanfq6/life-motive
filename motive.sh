@@ -27,7 +27,7 @@ K="\033[0;100m"
 D="\033[4;31m"
 
 echo -e $K"installing lolcat"$w
-apt install lolcat &> /dev/null;
+gem install lolcat &> /dev/null;
 
 echo -e $K"installing fortune"$w
 apt install fotune &> /dev/null;
