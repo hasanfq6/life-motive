@@ -11,7 +11,7 @@
 </p>
 
 
-# phish-tool
+### life-motive 
 [+] Simple tool to that tells you the motivation of life
 
 ### Installation 
