@@ -17,7 +17,7 @@
 ### Installation 
 ```
 - git clone https://github.com/Kamanati/life-motive
-- cd motive.sh
+- cd life-motive
 - chmod +x *
 - ./motive.sh
 ```
