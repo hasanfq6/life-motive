@@ -27,13 +27,13 @@ K="\033[0;100m"
 D="\033[4;31m"
 
 echo -e $K"installing lolcat"$w
-gem install lolcat &> /dev/null;
+apt install lolcat &> /dev/null;
 
 echo -e $K"installing fortune"$w
-pkg install fotune &> /dev/null;
+apt install fotune &> /dev/null;
 
 echo -e $K"installing cowsay"$w
-pkg install cowsay &> /dev/null;
+apt install cowsay &> /dev/null;
 
 ## questions
 pause_1() {
