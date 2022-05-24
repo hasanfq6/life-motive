@@ -30,21 +30,21 @@ if [[ -e "/data/data/com.termux/files/home" ]]; then
  echo -e $g"[+] lolcat already installed"$w
 else
 echo -e $K"installing lolcat"$w
-gem install lolcat &> /dev/null;
+apt install lolcat -y &> /dev/null;
 fi
 
 if [[ -e "/data/data/com.termux/files/home" ]]; then
  echo -e $g"[+] lolcat already installed"$w
 else
 echo -e $K"installing fortune"$w
-pkg install fotune &> /dev/null;
+apt install fotune -y &> /dev/null;
 fi
 
 if [[ -e "/data/data/com.termux/files/home" ]]; then
  echo -e $g"[+] lolcat already installed"$w
 else
 echo -e $K"installing cowsay"$w
-pkg install cowsay &> /dev/null;
+apt install cowsay -y &> /dev/null;
 fi
 
 ## questions
