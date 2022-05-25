@@ -30,7 +30,7 @@ if [[ -e "/data/data/com.termux/files/home" ]]; then
  echo -e $g"[+] lolcat already installed"$w
 else
 echo -e $K"installing lolcat"$w
-apt install lolcat -y &> /dev/null;
+gem install lolcat -y &> /dev/null;
 fi
 
 if [[ -e "/data/data/com.termux/files/home" ]]; then
