@@ -16,7 +16,7 @@
 
 ### Installation 
 ```
-- git clone https://github.com/Kamanati/life-motive
+- git clone https://github.com/hasanfq6/life-motive
 - cd life-motive
 - chmod +x *
 - ./motive.sh
@@ -39,7 +39,7 @@
 
 <p align="left">
 
-<a href="https://github.com/Kamanati/phish-tool" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hasanfq6/phish-tool" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
 
